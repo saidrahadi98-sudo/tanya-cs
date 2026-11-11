@@ -1,3 +1,3 @@
 # Apakah Ada Biaya Berhenti Berlangganan
 
-Biaya penghentian layanan dapat dikenakan apabila pelanggan masih berada dalam masa kontrak. Informasi lengkap dapat diperoleh melalui layanan pelanggan.
+Paket 20, 30, dan 50 Mbps tidak dikenai biaya berhenti berlangganan. Paket 100 dan 300 Mbps yang berhenti sebelum kontrak 12 bulan berakhir dikenai biaya Rp500.000.

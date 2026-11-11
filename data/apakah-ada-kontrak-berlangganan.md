@@ -1,3 +1,3 @@
 # Apakah Ada Kontrak Berlangganan
 
-Beberapa paket BorneoNet memiliki masa kontrak, sementara paket lainnya dapat digunakan tanpa kontrak. Informasi mengenai masa berlangganan dapat dilihat saat proses pendaftaran atau dengan menghubungi layanan pelanggan.
+Paket 20, 30, dan 50 Mbps tidak menggunakan kontrak. Paket 100 dan 300 Mbps memiliki kontrak 12 bulan.

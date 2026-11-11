@@ -1,3 +1,3 @@
 # Berapa Lama Gangguan Akan Diperbaiki
 
-Waktu penanganan bergantung pada jenis gangguan yang terjadi. Anda dapat memantau perkembangan laporan melalui aplikasi BorneoNet.
+Penanganan gangguan biasanya selesai dalam 24 jam setelah laporan diverifikasi. Anda dapat memantau perkembangan laporan melalui aplikasi BorneoNet.
